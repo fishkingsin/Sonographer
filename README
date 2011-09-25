@@ -1,0 +1,14 @@
+1. install macport and git: http://confluence.concord.org/display/CCTR/Installing+git+with+macports
+2. Download OF0.62 to <yourworkingdir>: from http://www.openframeworks.cc/downloads/of_preRelease_v0062_osxSL_FAT.zip
+(By the way, some download links are corrupted...)
+3. open Terminal
+4. install libtool library via macport: sudo port install libtool
+5. install libusb library via macport: sudo port install libusb-devel +universal
+6. change to your working dir: cd <yourworkingdir>
+7. get latest openFramworks: git clone https://github.com/openframeworks/openFrameworks.git -b master
+We are not working with OF0.62, but need some files
+8. copy from OF0.62 Release: ofx-0062/libs/GLee…  and add it to your openframeworks/libs folder
+9. copy from OF0.62 Release: ofx-0062/libs/poco/lib/osx/CppUnit.a… and add it to your openFrameworks/libs/poco/lib/osx/ folder
+10. go into the addons folder: cd <yourworkingdir>/openFrameworks/addons
+11. follow very carefully gameoverhacks instructions: https://github.com/gameoverhack/ofxOpenNI HOWEVER:
+as far as I understand, its not necessary to install the drivers since they are already precompiled inside this version of ofxOpenNI. BUT it is VERY important to copy the example project to <yourworkingdir>/openFrameworks/apps/addonExample AND copy the content of copy_to_data_openni_path - folder according to the above instructions. Thats what I actually missed (assuming the author has already created a working project) and probably caused my troubles above.
