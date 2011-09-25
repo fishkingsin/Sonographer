@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Sonographer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>51526DAE13AE6D7C00EC9DD1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>516F549913C192D500177EF9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>51C755AF13B21067006C89ED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E4B69B5A0A3A1756003C02F2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

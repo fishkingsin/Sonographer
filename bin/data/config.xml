@@ -1,0 +1,17 @@
+<SETTINGS>
+    <DEVICE_ID>James-iPhone</DEVICE_ID>
+    <FULLSCREEN>0</FULLSCREEN>
+	<STAGE_WIDTH>1024</STAGE_WIDTH>
+	<STAGE_HEIGHT>768</STAGE_HEIGHT>
+
+<TARGET_PATH>/Users/kingsinjameskong/Movies/recording/</TARGET_PATH>
+<!--<TARGET_PATH>/Volumes/LACIE011/recording/</TARGET_PATH>-->
+<!--    <TARGET_PATH>/Volumes/Samsung 1/recording/</TARGET_PATH>-->
+    <FENSTER>
+        <X>1440</X>
+        <Y>0</Y>
+        <WIDTH>640</WIDTH>
+        <HEIGHT>480</HEIGHT>
+        <FULLSCREEN>1</FULL_SCREEN>
+    </FENSTER>
+</SETTINGS>

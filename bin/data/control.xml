@@ -1,0 +1,87 @@
+<TOGGLE_ORBIT>
+    <val_0>1.000000</val_0>
+</TOGGLE_ORBIT>
+<TOGGLE_OSC>
+    <val_0>1.000000</val_0>
+</TOGGLE_OSC>
+<CAMERA_DISTANCE>
+    <val_0>3333.333008</val_0>
+</CAMERA_DISTANCE>
+<TOGGLE_CAMERA>
+    <val_0>1.000000</val_0>
+</TOGGLE_CAMERA>
+<play_mode>
+    <val_0>0.000000</val_0>
+</play_mode>
+<USER_X>
+    <val_0>0.000000</val_0>
+</USER_X>
+<USER_Y>
+    <val_0>0.000000</val_0>
+</USER_Y>
+<USER_SCALE>
+    <val_0>0.472222</val_0>
+</USER_SCALE>
+<scaleX>
+    <val_0>5.555556</val_0>
+</scaleX>
+<scaleY>
+    <val_0>17.777779</val_0>
+</scaleY>
+<scaleZ>
+    <val_0>7.777778</val_0>
+</scaleZ>
+<colorR>
+    <val_0>255.000000</val_0>
+</colorR>
+<colorG>
+    <val_0>255.000000</val_0>
+</colorG>
+<colorB>
+    <val_0>56.666668</val_0>
+</colorB>
+<colorA>
+    <val_0>126.083328</val_0>
+</colorA>
+<FOV>
+    <val_0>57.799999</val_0>
+</FOV>
+<STAGE_SCALE>
+    <val_0>1.000000</val_0>
+</STAGE_SCALE>
+<imageS>
+    <val_0>0.000000</val_0>
+</imageS>
+<STAGE_X>
+    <val_0>0.000000</val_0>
+</STAGE_X>
+<STAGE_Y>
+    <val_0>0.000000</val_0>
+</STAGE_Y>
+<STAGE_Z>
+    <val_0>-400.000000</val_0>
+</STAGE_Z>
+<vbo_smooth>
+    <val_0>1.000000</val_0>
+</vbo_smooth>
+<CAMERA_RADIUS>
+    <val_0>3333.333008</val_0>
+</CAMERA_RADIUS>
+<TOGGLE_VBO>
+    <val_0>0.000000</val_0>
+</TOGGLE_VBO>
+<CAMERA_ROTATION_X>
+    <val_0>184.000015</val_0>
+</CAMERA_ROTATION_X>
+<CAMERA_ROTATION_Y>
+    <val_0>14.000000</val_0>
+</CAMERA_ROTATION_Y>
+<CAMERA_PROFILE>
+    <val_0>0.000000</val_0>
+</CAMERA_PROFILE>
+<TOGGLE_PROFILE>
+    <val_0>0.000000</val_0>
+</TOGGLE_PROFILE>
+<MOUSE_SMOOTH>
+    <val_0>0.009444</val_0>
+</MOUSE_SMOOTH>
